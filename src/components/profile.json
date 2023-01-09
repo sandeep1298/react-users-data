@@ -1,0 +1,41 @@
+{
+    
+    "user":{
+    "first_name" : "David",
+    "last_name" : "Tokan",
+    "title" : "Mid Architect",
+    "email" : "hello@reallygreatsite.com",
+    "phone" : "123-456-4890",
+    "about" : "I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs."
+    },
+    "skills" :[
+        {"name": "Interior Design", "value" : 70},
+        {"name": "3d Modeling", "value" : 80},
+        {"name": "Photography", "value" : 50}   
+    ],
+    "education" :[
+        {
+            "title" : "Bachelor of Architecture",
+            "year" : 2014,
+            "institute" : "Marcelioneli Art Academy"
+        },
+        {
+            "title" : "Masters of Architecture",
+            "year" : 2018,
+            "institute" : "Sami Institute of the Arts"
+        }
+        
+    ],
+    "languages" :[
+        {"language" : "English", "value" : 90},
+        {"language" : "German", "value" : 60},
+        {"language" : "Italian", "value" : 40}
+    ],
+    "experience" : [
+        {"title" : "Junior Assistant", "year" : 2018, "description" : "Worked on marketing campaigns, Handled multiple digital accounts, Created digital marketing campaigns, Assisted the head designer"},
+        {"title" : "Junior Architect", "year" : 2019, "description" : "Worked on marketing campaigns, Handled multiple digital accounts, Created digital marketing campaigns, Assisted the head designer"},
+        {"title" : "Project Manager", "year" : 2020, "description" : "Worked on marketing campaigns, Handled multiple digital accounts, Created digital marketing campaigns, Assisted the head designer"},
+        {"title" : "Mid level Architect", "year" : 2022, "description" : "Worked on marketing campaigns, Handled multiple digital accounts, Created digital marketing campaigns, Assisted the head designer"}
+
+    ]
+}
